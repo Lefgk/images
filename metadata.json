@@ -1,5 +1,11 @@
 {
     "name": "Golden Ticket NFT",
     "description": "Golden Ticket NFT",
-    "image": "https://avatars.shiryoinu.com/1.png"
+    "image": "https://avatars.shiryoinu.com/1.png",
+    "attributes": [
+      {
+        "trait_type": "None",
+        "value": "None"
+      }
+    ]
 }
