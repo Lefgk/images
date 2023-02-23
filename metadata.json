@@ -2,10 +2,5 @@
     "name": "Golden Ticket NFT",
     "description": "Golden Ticket NFT",
     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "attributes": [
-      {
-        "trait_type": "None",
-        "value": "None"
-      }
-    ]
+   
 }
