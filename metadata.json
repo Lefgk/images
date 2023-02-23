@@ -1,5 +1,11 @@
 {
-   "image": "ipfs://bafybeihicivsjqsl64nroilhy6rfykjjxwpeyabyttiigqcz4fwurbzu3q/2.jpg",
-   "name": "Passive OG",
-   "description": "Passive OG NFT"
+    "name": "Golden Ticket NFT",
+    "description": "Golden Ticket NFT",
+    "image": "https://via.placeholder.com/600x400",
+    "attributes": [
+      {
+        "trait_type": "None",
+        "value": "None"
+      }
+    ]
 }
